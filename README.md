@@ -6,6 +6,7 @@ Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16,
 To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
 
 ## Procedure:
+
 ```
 1.Initialize an input array of size 1024.
 2.Launch the reduceUnrolling8 kernel, which performs reduction using 8 data blocks per thread.
@@ -13,6 +14,10 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 4.Compare the results obtained from both kernels.
 ```
 ## Program:
+```
+DEVELOPED BY : Santhoshkumar B
+REGISTER NO : 212221040134
+```
 ```
 %%cu
 #include <cuda_runtime.h>
