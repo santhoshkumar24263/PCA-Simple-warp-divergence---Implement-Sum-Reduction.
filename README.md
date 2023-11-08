@@ -16,7 +16,7 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 ## Program:
 ```
 DEVELOPED BY : Santhoshkumar B
-REGISTER NO : 212221040134
+REGISTER NO : 212221040146
 ```
 ```
 %%cu
